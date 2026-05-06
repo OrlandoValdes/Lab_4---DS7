@@ -50,6 +50,7 @@ php index.php
 
 El proyecto sigue la convención PSR-4, donde los namespaces reflejan la estructura de carpetas.
 
+```
 /proyecto
 │
 ├── composer.json
@@ -66,6 +67,7 @@ El proyecto sigue la convención PSR-4, donde los namespaces reflejan la estruct
     │
     └── /Services
         └── UsuarioService.php
+```
 
 ### 📌 Relación Namespace ↔ Carpetas
 
