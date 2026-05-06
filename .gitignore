@@ -1,2 +1,2 @@
 # Ignora Carpeta vendor/, para que la carga automática se genere localmente mediante Composer
-vendor
+vendor/
